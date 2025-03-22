@@ -1,6 +1,9 @@
 # RL_Data_Project
-I developed this project as a way to merge my likeness for Rocket League with practical implementation of VBA code in Excel and working with Excel in general. My primary focus for this ongoing project is to keep as much code as I can in VBA, and not rely too heavily on cell functions to push me out of my comfort zone and build familiarity with VBA.
+I developed this project as a way to merge my likeness for Rocket League with practical implementation of VBA code in Excel and working with Excel in general. My primary focus for this project was to keep as much code as I can in VBA, and not rely too heavily on cell functions to push me out of my comfort zone and build familiarity with VBA.
 
 ## Main Page<br />
 <img src="images/sheet.jpg" alt="Example Image 2" width="1000"><br />
-- The main page for the excel app.
+- I partially used this project as an excuse to use my friends PC while I logged info on my laptop.
+- The user manually plugs in their data for a single game in the top left, and submits it by hitting the "Enter Data" button.
+- The "Clear Table" button truncates all the data from the table.
+- The "Display Stats" button shows the trend of our estimated MMR (Match Making Rating) and some other stats from our data table.
