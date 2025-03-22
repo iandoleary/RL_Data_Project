@@ -6,4 +6,4 @@ I developed this project as a way to merge my likeness for Rocket League with pr
 - The user manually plugs in their data for a single game in the top left, and submits it by hitting the "Enter Data" button.
 - The "Clear Table" button truncates all the data from the table.
 - The "Display Stats" button shows the trend of our estimated MMR (Match Making Rating) and some other stats from our data table.
-- I didn't have a good computer to play on in college, so I partially used this project as an excuse to use my friends custom PC with a 3070 super while I logged info on my slow laptop.
+- I didn't have a good computer to play on in college, so I partially used this project as an excuse to use my friends custom PC with a 3070 super while I entered data on my slow laptop.
