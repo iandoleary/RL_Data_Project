@@ -3,4 +3,4 @@ I developed this project as a way to merge my likeness for Rocket League with pr
 
 ## Main Page<br />
 <img src="images/sheet.jpg" alt="Example Image 2" width="1000"><br />
-- Sadly, this is just a paper account.
+- The main page for the excel app.
