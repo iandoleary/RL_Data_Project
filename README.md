@@ -1,4 +1,6 @@
 # RL_Data_Project
+I learned VBA in an MIS class and that got me hooked on programming. This was the first technical project that I created with that new skill and it was a great learning experience.
+
 I developed this project as a way to merge my likeness for Rocket League with practical implementation of VBA code in Excel and working with Excel in general. My primary focus for this project was to keep as much code as I can in VBA, and not rely too heavily on cell functions to push me out of my comfort zone and build familiarity with VBA.
 
 ## Main Page<br />
